@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+section{
+  display: flex;
+  justify-content: center;
+}
+div{
+  width: 250px;
+  height: 250px;
+  background-color: crimson;
+  border: solid 1px rgb(44, 202, 78);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 25px;
+}
